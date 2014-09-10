@@ -16,10 +16,10 @@ This code is licensed under LGPL v3. Please, check the LICENSE file for more inf
 
 References
 ----------
-* Tartakovsky, A. & Veeravalli, V., 2008. Asymptotically Optimal Quickest Change Detection in Distributed Sensor Systems. Sequential Analysis, 27(4), pp.441–475
+* Tartakovsky, A. & Veeravalli, V., 2008. Asymptotically Optimal Quickest Change Detection in Distributed Sensor Systems. Sequential Analysis, 27(4), pp.441â€“475
 
-* Mei, Y., 2010. Efficient scalable schemes for monitoring a large number of data streams. Biometrika, 97(2), pp.419–433
+* Mei, Y., 2010. Efficient scalable schemes for monitoring a large number of data streams. Biometrika, 97(2), pp.419â€“433
 
-* Xie, Y. & Siegmund, D., 2013. Sequential multi-sensor change-point detection. The Annals of Statistics, 41(2), pp.670–692
+* Xie, Y. & Siegmund, D., 2013. Sequential multi-sensor change-point detection. The Annals of Statistics, 41(2), pp.670â€“692
 
-* Zamba, K.D. & Hawkins, D.M., 2006. A Multivariate Change-Point Model for Statistical Process Control. Technometrics, 48(4), pp.539–549.
+* Zamba, K.D. & Hawkins, D.M., 2006. A Multivariate Change-Point Model for Statistical Process Control. Technometrics, 48(4), pp.539â€“549.
