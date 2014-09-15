@@ -1,7 +1,11 @@
 About this code
 ----------------
 This code was used for the experimental section of the following paper:
-Martin Salvador et al. Online detection of shutdown periods in chemical plants: A case study. KES2014. To be published.
+
+* Manuel Martin Salvador, Bogdan Gabrys, Indrė Žliobaitė, Online Detection of Shutdown Periods in Chemical Plants: A Case Study, Procedia Computer Science, Volume 35, 2014, Pages 580-588, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2014.08.139.
+(http://www.sciencedirect.com/science/article/pii/S1877050914011041)
+Keywords: change-point detection; online detection; shutdown periods; data streams; case study
+
 
 I apologize about code structure and cleaning. If you are intended to use this code and have any question, please don't hesitate to contact me.
 
